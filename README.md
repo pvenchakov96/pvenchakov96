@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Pavel (nickname: Mr_La1m). I also like the color green—hence the nickname "La1m" (lime)!
+
 🔭 I’m currently working at Globaltest LLC and preparing my PhD thesis in "Informatics and Computer Engineering."
 
 🌱 I’m currently learning C and Python.
